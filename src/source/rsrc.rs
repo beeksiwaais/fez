@@ -1,0 +1,1 @@
+// indenpent resource file (should be also support able to support dfont files)
